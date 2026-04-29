@@ -24,21 +24,8 @@
 - [x] 分层架构与服务边界
 - [x] 数据链路与质量闸口
 - [x] 协作流程与发布治理
-- [x] 实施路线图与验收指标
+- [x] 实施路线图与验收指标   
 - [x] 风险识别与应对机制
-
-## 提交到代码托管平台（GitHub / Gitee）
-
-> 你可选择 GitHub 或 Gitee 任一平台，仓库建议命名：`ah-dcf-valuation-design`
-
-1. 在平台创建空仓库（不初始化 `README`）
-2. 本地执行以下命令：
-   - `git init`
-   - `git add .`
-   - `git commit -m "提交AH股全市场DCF估值系统完整设计方案"`
-   - `git branch -M main`
-   - `git remote add origin <你的仓库地址>`
-   - `git push -u origin main`
 
 ## 评审建议
 
